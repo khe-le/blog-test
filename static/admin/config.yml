@@ -9,7 +9,7 @@ collections:
   - name: "blog"
     label: "Blog"
     folder: "content/blog"
-    create: true
+    create: false
     slug: "index"
     media_folder: ""
     public_folder: ""
